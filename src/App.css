@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.MyPhoto {
+  width: 25%;
+  margin: auto;
+  height: 25%;
+}
+.MYProfile {
+  display: flex;
+  width: 25%;
+  margin: auto;
+  flex-direction: column;
+}
